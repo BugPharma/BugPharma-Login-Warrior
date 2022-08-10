@@ -6,14 +6,14 @@ Corso di Laurea in Informatica - A.A.: 2021/2022
 Università degli Studi di Padova
 
 ## Componenti del Gruppo
-| Nominativo        | <div style="text-align: center;">Matricola</div>     | Contatto |
+| Nominativo        | Matricola    | Contatto |
 |------------       |-----------    |----------|
-Andrea Salmaso      | <div style="text-align: center;">1140414</div>       | andrea.salmaso.13@studenti.unipd.it
-Lorenzo Piran       | <div style="text-align: center;">1193526</div>       | lorenzo.piran@studenti.unipd.it
-Michele Masetto     | <div style="text-align: center;">1224457</div>       | michele.masetto@studenti.unipd.it
-Nicholas Sertori    | <div style="text-align: center;">1193171</div>       | nicholas.sertori@studenti.unipd.it
-Nicla Faccioli      | <div style="text-align: center;">1165370</div>       | nicla.faccioli@studenti.unipd.it
-Sara Nanni          | <div style="text-align: center;">1192191</div>       | sara.nanni@studenti.unipd.it
-Silvia Giro         | <div style="text-align: center;">1201167</div>       | silvia.giro@studenti.unipd.it
+Andrea Salmaso      | 1140414      | andrea.salmaso.13@studenti.unipd.it
+Lorenzo Piran       | 1193526      | lorenzo.piran@studenti.unipd.it
+Michele Masetto     | 1224457       | michele.masetto@studenti.unipd.it
+Nicholas Sertori    | 1193171      | nicholas.sertori@studenti.unipd.it
+Nicla Faccioli      | 1165370       | nicla.faccioli@studenti.unipd.it
+Sara Nanni          | 1192191       | sara.nanni@studenti.unipd.it
+Silvia Giro         | 1201167       | silvia.giro@studenti.unipd.it
 
 E-mail: bugpharma10@gmail.com
